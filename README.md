@@ -154,6 +154,7 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 ---
 
 <p align="center">Feel free to explore the projects, use them as a learning resource, or even build upon them to create your own multimedia applications. Happy coding! 🎉</p>
-```
 
-This version includes more detailed descriptions, feature lists for each project, and a visually appealing structure. Feel free to customize it further to match your needs!
+<p align="center">This version includes more detailed descriptions, feature lists for each project, and a visually appealing structure. Feel free to customize it further to match your needs!</p>
+
+---
