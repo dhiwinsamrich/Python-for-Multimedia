@@ -22,73 +22,21 @@ Python's simplicity and versatility make it an ideal language for multimedia pro
 
 ## 📂 Projects
 
-### 1. Image Processing
-#### **Photo Editor**
-- **Description:** A comprehensive photo editing tool that supports various filters, adjustments, and effects to enhance your photos.
+### 1. Add Audio to Video
+- **Description:** This project demonstrates how to add an audio track to a video file using Python.
 - **Features:**
-  - Apply filters (grayscale, sepia, negative, etc.)
-  - Adjust brightness, contrast, and saturation
-  - Crop, resize, and rotate images
-- **Usage:** Transform your photos into stunning visuals with just a few clicks.
+  - Combine audio and video files
+  - Synchronize audio with video playback
+  - Support for various audio and video formats
+- **Usage:** Enhance your video content by adding background music, voiceovers, or any other audio tracks.
 
-#### **Image Resizer**
-- **Description:** A simple yet powerful tool to resize images while maintaining aspect ratio and quality.
+### 2. Add Photo to Audio
+- **Description:** This project shows how to create a video from a photo and an audio file, combining them into a single multimedia file.
 - **Features:**
-  - Batch resizing
-  - Custom dimension input
-  - Preserve image quality
-- **Usage:** Quickly resize multiple images for web use, printing, or other purposes.
-
-### 2. Audio Processing
-#### **Audio Mixer**
-- **Description:** A versatile audio mixing tool that allows you to combine multiple audio tracks, adjust volume levels, and apply effects.
-- **Features:**
-  - Multi-track mixing
-  - Volume control
-  - Audio effects (fade in/out, reverb, etc.)
-- **Usage:** Create professional-quality audio mixes for music production, podcasts, and more.
-
-#### **Podcast Editor**
-- **Description:** An intuitive editor for creating and editing podcast episodes, complete with trimming, merging, and effect application.
-- **Features:**
-  - Trim and merge audio clips
-  - Add background music and sound effects
-  - Export in various formats
-- **Usage:** Produce and edit engaging podcast episodes with ease.
-
-### 3. Video Processing
-#### **Video Editor**
-- **Description:** A feature-rich video editor that supports cutting, merging, adding transitions, and applying filters to video clips.
-- **Features:**
-  - Timeline-based editing
-  - Transition effects
-  - Color correction and filters
-- **Usage:** Edit and enhance your video projects with professional-grade tools.
-
-#### **GIF Maker**
-- **Description:** A fun tool to create animated GIFs from video clips or a sequence of images.
-- **Features:**
-  - Convert video to GIF
-  - Customize frame rate and resolution
-  - Add text and stickers
-- **Usage:** Create engaging GIFs for social media, websites, and more.
-
-### 4. Interactive Multimedia
-#### **Multimedia Presentation**
-- **Description:** A tool to create interactive multimedia presentations that combine text, images, audio, and video.
-- **Features:**
-  - Slide-based presentation format
-  - Embed multimedia content
-  - Interactive elements (buttons, links, etc.)
-- **Usage:** Craft dynamic presentations for educational, business, or personal use.
-
-#### **Virtual Art Gallery**
-- **Description:** An immersive virtual art gallery that showcases digital art and allows users to explore in a 3D environment.
-- **Features:**
-  - 3D navigation
-  - High-resolution artwork display
-  - Interactive information panels
-- **Usage:** Display digital art in a virtual gallery setting, perfect for exhibitions and portfolios.
+  - Generate video with static image and audio
+  - Customizable duration and transition effects
+  - Support for multiple image and audio formats
+- **Usage:** Create engaging multimedia presentations or video slideshows with background audio.
 
 ---
 
