@@ -38,6 +38,22 @@ Python's simplicity and versatility make it an ideal language for multimedia pro
   - Support for multiple image and audio formats
 - **Usage:** Create engaging multimedia presentations or video slideshows with background audio.
 
+### 3. Combine Audio
+- **Description:** This project provides a way to combine multiple audio files into a single track.
+- **Features:**
+  - Merge multiple audio files seamlessly
+  - Adjust volume levels for each track
+  - Support for various audio formats
+- **Usage:** Combine songs, podcasts, or any other audio files into a single cohesive track.
+
+### 4. Combine Video
+- **Description:** This project demonstrates how to merge multiple video clips into one continuous video.
+- **Features:**
+  - Combine multiple video clips
+  - Apply transition effects between clips
+  - Support for various video formats
+- **Usage:** Create a single video from multiple clips, ideal for movie editing, vlogs, or presentations.
+
 ---
 
 ## ⚙️ Installation
