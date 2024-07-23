@@ -54,6 +54,22 @@ Python's simplicity and versatility make it an ideal language for multimedia pro
   - Support for various video formats
 - **Usage:** Create a single video from multiple clips, ideal for movie editing, vlogs, or presentations.
 
+### 5. Compress Image
+- **Description:** This project demonstrates how to compress image files to reduce their size while maintaining quality.
+- **Features:**
+  - Compress images to various levels of quality
+  - Support for multiple image formats (JPEG, PNG, etc.)
+  - Batch processing for multiple images
+- **Usage:** Optimize images for web usage, save storage space, and reduce loading times without significant loss in quality.
+
+### 6. Extract Frames from Video
+- **Description:** This project shows how to extract individual frames from a video file using Python.
+- **Features:**
+  - Extract frames at specified intervals
+  - Support for various video formats
+  - Save frames as images in different formats
+- **Usage:** Analyze video content frame-by-frame, create thumbnails, or use frames for further image processing tasks.
+
 ---
 
 ## ⚙️ Installation
