@@ -70,6 +70,22 @@ Python's simplicity and versatility make it an ideal language for multimedia pro
   - Save frames as images in different formats
 - **Usage:** Analyze video content frame-by-frame, create thumbnails, or use frames for further image processing tasks.
 
+### 7. Extract Video Metadata
+- **Description:** This project demonstrates how to extract metadata from video files.
+- **Features:**
+  - Extract detailed metadata including codec, resolution, duration, bitrate, and more
+  - Support for various video formats
+  - Export metadata to JSON or other formats
+- **Usage:** Analyze video properties, catalog video files, and integrate metadata into video management systems.
+
+### 8. Record Specific Window
+- **Description:** This project shows how to record the content of a specific window on your screen.
+- **Features:**
+  - Select and record a specific application window
+  - Capture both video and audio from the window
+  - Support for multiple output formats and resolutions
+- **Usage:** Create tutorials, record gameplay, capture presentations, or monitor application activity.
+
 ---
 
 ## ⚙️ Installation
