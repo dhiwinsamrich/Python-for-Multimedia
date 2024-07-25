@@ -86,6 +86,14 @@ Python's simplicity and versatility make it an ideal language for multimedia pro
   - Support for multiple output formats and resolutions
 - **Usage:** Create tutorials, record gameplay, capture presentations, or monitor application activity.
 
+### 9. Reverse Video
+- **Description:** This project demonstrates how to reverse a video file so that it plays backward.
+- **Features:**
+  - Reverse the playback order of video frames
+  - Support for various video formats
+  - Maintain audio synchronization with reversed video (optional)
+- **Usage:** Create artistic effects, analyze movements in reverse, or add unique elements to video content.
+
 ---
 
 ## ⚙️ Installation
